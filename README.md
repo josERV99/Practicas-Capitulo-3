@@ -23,4 +23,5 @@ Aqui se muestra el codigo del programa:
 
 Aqui se muestra el resultado una vez corrido el programa.
 
+![image](https://user-images.githubusercontent.com/54882313/119867697-04a17880-bed3-11eb-88b3-ee8e981bb165.png)
 
