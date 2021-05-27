@@ -16,3 +16,11 @@ Aqui se muestra el resultado una vez corrido el programa.
 
 PRACTICA subrut5.c
 
+Aqui se muestra el codigo del programa:
+
+![image](https://user-images.githubusercontent.com/54882313/119867600-e9366d80-bed2-11eb-9c46-998e733504b6.png)
+
+
+Aqui se muestra el resultado una vez corrido el programa.
+
+
